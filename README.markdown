@@ -48,10 +48,12 @@ Example:
 	
 	=| Subheading
 	Yet another paragraph without indent (since header is closed, we need
-	no 
+	no blank line before (though this won't hurt)
 
 Inline markup can have an argument string; it is written in square brackets
-and cannot contain a closing square bracket.
+and cannot contain a closing square bracket:
+
+	This is __[http://duckduckgo.com]a link__.
 
 
 Convertor details
