@@ -37,6 +37,7 @@ Paragraphs can contain inline markup. Inline markup starts with CC and ends
 with CC, where CC is an arbitrary ASCII character that identifies the block.
 
 Example:
+
 	#| Main heading
 	=| Subheading
 	  This paragraph contains **bold** and //italic// text, as well as
